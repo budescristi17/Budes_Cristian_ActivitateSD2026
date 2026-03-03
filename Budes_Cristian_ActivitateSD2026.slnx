@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Budes_Cristian_ActivitateSD2026/Budes_Cristian_ActivitateSD2026.vcxproj" />
+</Solution>
